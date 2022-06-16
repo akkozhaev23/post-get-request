@@ -1,0 +1,19 @@
+html, body {
+    text-align: center;
+}
+
+div {
+    margin: 10px;
+}
+
+button {
+    width: 160px;
+    height: 60px;
+    font-size: 20px;
+}
+
+input {
+    width: 150px;
+    height: 60px;
+    font-size: 20px;
+}
